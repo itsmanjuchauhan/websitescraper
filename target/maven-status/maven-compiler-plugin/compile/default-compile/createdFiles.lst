@@ -1,0 +1,5 @@
+com\websitescraper\businessobjects\Website.class
+com\websitescraper\service\WebsiteScraper.class
+com\websitescraper\console\Console.class
+com\websitescraper\businessobjects\Product.class
+com\websitescraper\service\ProductPageScraper.class
